@@ -1,0 +1,11 @@
+===================================
+zeeBusiness Changelog
+===================================
+
+Version 1.0.5
+-----------------------------------
+- replace wp_print_styles() with wp_enqueue_scripts() because of incompatibility with WordPress 3.3
+
+Version 1.0.4
+-----------------------------------
+Final Version
